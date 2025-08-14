@@ -3,7 +3,7 @@
 ## Índice
 
 - [Visão Geral](#visao-geral)
-- [Recursos Trabalhados](#recursos-trabalhados)
+- [Recursos](#recursos)
 
 ---
 
@@ -27,8 +27,8 @@ O estudo forneceu **insights estratégicos e acionáveis**, ajudando a equipe de
 
 ---
 
-<a id='recursos-trabalhados'></a>
-## Recursos Trabalhados
+<a id='recursos'></a>
+## Recursos
 
 - Inteligência de negócios (BI);
 - Análise de dados nos negócios;
