@@ -1,6 +1,14 @@
 # Y.Afisha Comércio Online 🛒
 
-## Descrição
+## Índice
+
+- [Visão Geral](#visao-geral)
+- [Recursos Trabalhados](#recursos-trabalhados)
+
+---
+
+<a id='visao-geral'></a>
+## Visão Geral
 
 ### Case de Análise: Impacto do Marketing nas Vendas de Loja Online
 
@@ -17,13 +25,16 @@ A análise foi realizada em Python, utilizando bibliotecas especializadas:
 
 O estudo forneceu **insights estratégicos e acionáveis**, ajudando a equipe de marketing a entender quais **campanhas trazem maior retorno, onde investir de forma mais eficiente e como melhorar a retenção de clientes**, apoiando decisões fundamentadas e orientadas por dados.
 
-## Recursos
+---
 
-- Inteligência de negócios (BI)
-- Análise de dados nos negócios
-- Visualização de dados
-- Análise de dados
-- Negócios
-- Habilidades analíticas
-- Análise de negócios
-- Análise exploratória de dados
+<a id='recursos-trabalhados'></a>
+## Recursos Trabalhados
+
+- Inteligência de negócios (BI);
+- Análise de dados nos negócios;
+- Visualização de dados;
+- Análise de dados;
+- Negócios;
+- Habilidades analíticas;
+- Análise de negócios;
+- Análise exploratória de dados.
